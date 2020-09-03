@@ -10,3 +10,4 @@ Redis 学习笔记，读薄后读厚，看明白后讲明白。
 
 * 高可用
     * [主从库](https://github.com/Sidfate/Redis-Cultivation/tree/master/outline/高可用-主从库.md)
+    * [哨兵](https://github.com/Sidfate/Redis-Cultivation/tree/master/outline/高可用-哨兵.md)
